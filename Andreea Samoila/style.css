@@ -1,0 +1,14 @@
+body {
+    margin:0;
+    padding: 0;
+}
+h1 {
+    color: blue;
+    text-align: center;
+    padding: 1rem;
+}
+p {
+    color:#3277a8;
+    text-align: center;
+    padding: 0.5rem;
+}
